@@ -11,3 +11,9 @@ This is an example project demonstrating how to create a Flask web application w
    ```bash
    pip install Flask websocket-server
    ```
+
+3. Or install the required Python packages using pip:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
